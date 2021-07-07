@@ -7,3 +7,4 @@ int main() {
 	printf("result=%d\n", s);
 }
 
+
